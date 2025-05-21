@@ -12,7 +12,7 @@ It accompanies a blog post that explains the setup step by step and shows how Ka
 
 ## 📖 Related Blog Post
 
-You can read the full walkthrough and explanation here: **[A beginner's introduction to Kafka and how to use it in Spring Boot](#)**
+You can read the full walkthrough and explanation here: **[A beginner's introduction to Kafka and how to use it in Spring Boot](https://blog.giuseppe.clinaz.com/?p=330)**
 
 ---
 
